@@ -5,7 +5,7 @@ video_path = input("Enter the path to the video file: ").strip().strip('"')
 output_name = input("Enter the name of the output video file (without extension): ").strip()
 
 if not video_path:
-    raise ValueError("No video path entered.")
+    raise ValueError("you didnt even enter anything")
 
 if not os.path.exists(video_path):
     raise FileNotFoundError(f"Video file not found: {video_path}")
@@ -25,4 +25,4 @@ finally:
         muted_video.close()
 
         print("Congratulations! The video has been muted and is saved in the folder where you saved the script!")
-        print("Thanks for using my programm :)")
+        print("Thanks for using my programm :) This was made by gubbygui")
