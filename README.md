@@ -1,5 +1,5 @@
 # Shut Up Mp4!
-A small Python "Video Editor" that lets you perform certain everyday tasks on videos, like shortcuts!
+A small Python "Video Editor" that lets you mute videos quickly and locally.
 
 ## FEATURES
 Barely any... It can just mute your videos.
