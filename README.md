@@ -1,6 +1,8 @@
 # Shut Up Mp4!
 A small Python "Video Editor" that lets you mute videos quickly and locally.
 
+## WARNING
+this was mainly made for personal use so theres a high high chance it doesnt work!
 
 ## FEATURES
 Barely any... It can just mute your videos locally without going on some sketchy site that probably steals it and feeds it into ai lmao.
