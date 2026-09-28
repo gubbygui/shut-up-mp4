@@ -41,5 +41,5 @@ finally:
     if 'muted_video' in locals():
         muted_video.close()
 
-        print("Congratulations! The video has been muted and is saved in the folder where you saved the script!")
+        print("Congratulations! The video has been muted and is saved in the folder where you are in right now!")
         print("Thanks for using my programm :) This was made by gubbygui")
