@@ -12,9 +12,26 @@ I made this because the steam clipping app always contained my mic and i didnt w
 Having a lightweight program that just does the job is much easier for that imo :) 
 
 ## Installation
-As far as i know you need to have python installed and moviepy
-(you can find more about it here https://pypi.org/project/moviepy/)
-Install that with ```pip install moviepy```
-After that just move towards the file with cd and once youre the voila, welcome to the project.
+
+### Prerequisites
+- Python 3.6 or higher
+
+### Setup
+
+1. **Install moviepy** using pip:
+   ```bash
+   pip install moviepy
+   ```
+   For more details about moviepy, visit https://pypi.org/project/moviepy/
+
+2. **Clone or download this repository** to your desired location
+
+3. **Navigate to the project directory**:
+   ```bash
+   cd path/to/shut-up-mp4
+   ```
+
+4. **Run the program** and you're ready to mute some videos!
+
 ### In Development
 Might add more features and give it a proper gui, more tools and uh idk
